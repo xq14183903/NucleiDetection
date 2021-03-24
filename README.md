@@ -1,5 +1,5 @@
 # Detection of proliferation indices from microscopic image for tumour progression analysis
-In the study, we design an algorithm based on the residual netork, sliding window and softer non-maximum suppression for Glioblastoma (GBM) detection in microscopy images. To get more details about this research, please go to this link:[UROS 2020](https://lalt.lincoln.ac.uk/portfolio/uros-2020-project-detection-of-proliferation-indices-from-microscopic-image-for-tumour-progression-analysis/)
+In the study, we design an algorithm based on the residual netork, sliding window and softer non-maximum suppression for Glioblastoma (GBM) detection in microscopy images. To get more details about this research, please go to this link: [UROS 2020](https://lalt.lincoln.ac.uk/portfolio/uros-2020-project-detection-of-proliferation-indices-from-microscopic-image-for-tumour-progression-analysis/)
 
 ## Example of Evaluation
 ![result](Figure/result.png)
